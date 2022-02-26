@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Chotchaeva</string>
+    <string name="click_me">Click me!</string>
+
+    <plurals name="plurals">
+        <item quantity="zero">%d раз</item>
+        <item quantity="one">%d раз</item>
+        <item quantity="two">%d раза</item>
+        <item quantity="few">%d раза</item>
+        <item quantity="many">%d раз</item>
+        <item quantity="other">%d раз</item>
+    </plurals>
+</resources>
