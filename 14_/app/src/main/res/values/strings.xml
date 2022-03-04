@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">1.4_Основные элементы</string>
+    <string name="greetings">Hello from XML</string>
+    <string name="button">Update The TextView</string>
+    <string name="hint">A name</string>
+
+</resources>
